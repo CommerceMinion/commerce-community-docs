@@ -3,9 +3,6 @@ title: Sitecore Commerce Community
 layout: default
 ---
 
-# Sitecore Commerce
-### Community-Driven Documentation and Links
-
 ### Plugins
 
 - [Integrating Orders & Customers](https://websterian.com/2017/06/08/sitecore-commerce-erp-integration-an-approach-part-1-integrating-orders-and-customers/)
