@@ -17,7 +17,9 @@
         <p>Community-Driven Documentation</p>
         {% assign pages_list = site.pages %}
         {% for page in pages_list %}
+          {% if page.title != "Sitecore Commerce Community" %}
               <a href="{{ page.url }}">{{ page.title }}</a><br />
+          {% endif %}
         {% endfor %}
          <a href="https://github.com/heardk/commerce-community-docs">View the Project on GitHub <small></small></a>
       </header>
