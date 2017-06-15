@@ -1,4 +1,5 @@
-# Sitecore Commerce Community Docs & Links
+# Sitecore Commerce
+## Community-Driven Documentation and Links
 
 ## Plugins
 
