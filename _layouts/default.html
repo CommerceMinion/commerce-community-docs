@@ -16,11 +16,9 @@
         <h1>Sitecore Commerce</h1>
         <p>Community-Driven Documentation</p>
         {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-          {% if node.layout == "page" %}
-            <p><a href="{{ node.url }}">{{ node.title }}</a></p>
-          {% endif %}
-      {% endfor %}
+        {% for node in pages_list %}
+              <p><a href="{{ page.url }}">{{ page.title }}</a></p>
+        {% endfor %}
           <p class="view"><a href="https://github.com/heardk/commerce-community-docs">View the Project on GitHub <small></small></a></p>        
       </header>
       <section>
