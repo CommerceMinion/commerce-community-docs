@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Sitecore Commerce Community Docs & Links
 
-You can use the [editor on GitHub](https://github.com/heardk/commerce-community-docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Plugins
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Integrating Orders & Customers](https://websterian.com/2017/06/08/sitecore-commerce-erp-integration-an-approach-part-1-integrating-orders-and-customers/)
+- [Creating a Custom Promotion Qualification Condition](https://commerceservertips.com/creating-condition-for-commerce-engine/)
+- [Shared Cart](https://github.com/heardk/commerce-plugins)
+- [Modifying Business Tool Views](https://websterian.com/2017/06/13/sitecore-commerce-erp-integration-an-approach-part-2-modifying-the-business-tools-views/)
 
-### Markdown
+## Guides
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Creating and Applying Promotions with a Coupon](https://websterian.com/2017/06/06/sitecore-commerce-pricing-creating-and-applying-promotions-with-a-coupon-video/)
+- [Creating a Simple Bundle Promotion](https://websterian.com/2017/06/06/sitecore-commerce-pricing-creating-a-simple-bundle-promotion-video/)
+- [Creating a Custom Promotion Qualification Condition](https://commerceservertips.com/creating-condition-for-commerce-engine/)
+- [Pricing Management Walkthrough](http://commercesdn.sitecore.net/SitecoreCommerce/UsersGuide/en-us/index.html#Concepts/c_M_PricingManagementWalkthrough.html)
+- [Promotion Management Walkthrough](http://commercesdn.sitecore.net/SitecoreCommerce/UsersGuide/en-us/index.html#Concepts/c_M_PromotionManagementWalkthrough.html)
+- [Customer & Order Manager Walkthrough](http://commercesdn.sitecore.net/SitecoreCommerce/UsersGuide/en-us/index.html#Concepts/c_M_CustomerOrderManagementWalkthrough.html)
 
-```markdown
-Syntax highlighted code block
+## @CommerceMinion
 
-# Header 1
-## Header 2
-### Header 3
+Keep up to date with what's going on with Sitecore Commerce through [@commerceminion](https://twitter.com/commerceminion), including notifications for new forum posts
 
-- Bulleted
-- List
+## Community
 
-1. Numbered
-2. List
+- [Sitecore Commerce Community Forums](https://community.sitecore.net/developers/f/6)
+- [Join the #ecommerce channel on sitecorechat.slack.com](https://sitecorechat.slack.com/)
 
-**Bold** and _Italic_ and `Code` text
+## Key Documentation
 
-[Link](url) and ![Image](src)
-```
+- [Official Documentation](https://doc.sitecore.net/sitecore_commerce)
+- [Deployment Guide for Single Machine Install](http://commercesdn.sitecore.net/SitecoreCommerce/DeploymentGuide/en-us/index.html)
+- [Developer's Guide](https://doc.sitecore.net/~/media/25566BB479844DB186DBEF2864246639.ashx)
+- [PowerShell CmdLets for Managing Commerce Server Sites and Resources](http://commercesdn.sitecore.net/SCpbCS82/SitecoreCommerceGettingStarted/en-us/#DeploymentGuide/c_PowerShellCmdLets.html)
+- [Commerce Connect Components](https://doc.sitecore.net/sitecore_commerce/commerce_connect_components?roles=all)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Demo Site & Reference Storefront
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heardk/commerce-community-docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Retail Demo](https://github.com/Sitecore/Sitecore.Demo.Retail) (supports 8.2.1 initial release)
+- [Reference Storefront](https://github.com/Sitecore/Reference-Storefront) (supports latest version)
