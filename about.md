@@ -1,4 +1,4 @@
 ---
-title: Sitecore Commerce Community
+title: About this Site
 layout: default
 ---
