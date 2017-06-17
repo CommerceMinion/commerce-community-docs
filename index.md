@@ -5,19 +5,27 @@ layout: default
 
 ### Plugins
 
-- [Integrating Orders & Customers](https://websterian.com/2017/06/08/sitecore-commerce-erp-integration-an-approach-part-1-integrating-orders-and-customers/)
-- [Creating a Custom Promotion Qualification Condition](https://commerceservertips.com/creating-condition-for-commerce-engine/)
-- [Shared Cart](https://github.com/heardk/commerce-plugins)
-- [Modifying Business Tool Views](https://websterian.com/2017/06/13/sitecore-commerce-erp-integration-an-approach-part-2-modifying-the-business-tools-views/)
+<ul>
+    {% for plugin in site.data.plugins %}
+    <li>
+        <a href="{{plugin.link}}">
+            {{ plugin.name }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
 
 ### Guides
 
-- [Creating and Applying Promotions with a Coupon](https://websterian.com/2017/06/06/sitecore-commerce-pricing-creating-and-applying-promotions-with-a-coupon-video/)
-- [Creating a Simple Bundle Promotion](https://websterian.com/2017/06/06/sitecore-commerce-pricing-creating-a-simple-bundle-promotion-video/)
-- [Creating a Custom Promotion Qualification Condition](https://commerceservertips.com/creating-condition-for-commerce-engine/)
-- [Pricing Management Walkthrough](http://commercesdn.sitecore.net/SitecoreCommerce/UsersGuide/en-us/index.html#Concepts/c_M_PricingManagementWalkthrough.html)
-- [Promotion Management Walkthrough](http://commercesdn.sitecore.net/SitecoreCommerce/UsersGuide/en-us/index.html#Concepts/c_M_PromotionManagementWalkthrough.html)
-- [Customer & Order Manager Walkthrough](http://commercesdn.sitecore.net/SitecoreCommerce/UsersGuide/en-us/index.html#Concepts/c_M_CustomerOrderManagementWalkthrough.html)
+<ul>
+    {% for guide in site.data.guides %}
+    <li>
+        <a href="{{guide.link}}">
+            {{ guide.title }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
 
 ### @CommerceMinion
 

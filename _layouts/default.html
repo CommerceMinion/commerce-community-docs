@@ -18,10 +18,12 @@
         {% assign pages_list = site.pages %}
         {% for page in pages_list %}
           {% if page.title != "Sitecore Commerce Community" %}
-              <a href="{{ page.url }}">{{ page.title }}</a><br />
+              <a href="{{ page.url }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
-         <a href="https://github.com/heardk/commerce-community-docs">Contribute on GitHub</a>
+         <br />
+         <a href="/">Home</a><br />
+         <a href="https://github.com/heardk/commerce-community-docs">Contribute</a>
       </header>
       <section>
         {{ content }}
