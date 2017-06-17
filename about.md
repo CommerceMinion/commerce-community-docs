@@ -3,23 +3,44 @@ title: About
 layout: default
 ---
 
-## About Sitecore Commerce Community Docs
+## Community-Driven Documentation
 
-Sitecore Commerce is an integrated Experience Commerce solution built by Sitecore. This community site provides links to different resources for the commerce product, whether official Sitecore documentation or developer blog posts. The goal of this site is to be 100% community-driven, so please contribute your content.
+Sitecore Commerce is an integrated Experience Commerce solution built by Sitecore. This community site provides links to different resources for the commerce product, whether official Sitecore documentation or developer blog posts.
 
 ### Contribute
 
-You are welcome to contribute your own content to the site, simply make the changes and submit a pull request. At this point, submit content that fits with the current structure of the site in the following areas:
+You are welcome to contribute your own content to the site, simply make the changes and submit a pull request. For now, submit content in the following areas:
 
-- Blog Posts (be sure to properly attribute the post)
-- Links to external content
+- Blog Posts
+- Plugins
+- Guides or Walkthroughs
 
-The scope of the site can be expanded, but let's start with this.
+Contributing is done by adding an entry to one of the files in the _data folder. For example:
+
+**guides.yml**
+
+{% highlight yml %}
+- title: Creating a Simple Bundle Promotion
+  link: https://websterian.com/
+  author: author name
+  submitted-by: your name
+{% endhighlight %}
+
+**plugins.yml**
+
+{% highlight yml %}
+- name: Shared Cart
+  link: https://github.com/heardk/commerce-plugins
+  author: author name
+  submitted-by: your name
+{% endhighlight %}
+
+Follow Github's instructions on [creating a pull request](https://help.github.com/articles/creating-a-pull-request/), if you're not sure how to contribute.
 
 ### Official Documentation
 
-This site is not run by Sitecore and is meant to be community-driven. For official documentation, please visit the following:
+This site is community-driven. For official documentation, please visit the following:
 
-- [Sitecore.net](http://sitecore.net)
-- [Sitecore Commerce Docs]()
-- [Sitecore Commerce Downloads]()
+- [Sitecore.net](https://sitecore.net)
+- [Sitecore Commerce Docs](https://doc.sitecore.net/sitecore_commerce)
+- [Sitecore Commerce Downloads](https://dev.sitecore.net/Downloads/Sitecore_Commerce.aspx)
