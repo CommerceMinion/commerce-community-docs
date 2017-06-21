@@ -15,15 +15,10 @@
       <header>
         <h1>Sitecore Commerce</h1>
         <p>Community-Driven Documentation</p>
-        {% assign pages_list = site.pages %}
-        {% for page in pages_list %}
-          {% if page.title != "Sitecore Commerce Community" %}
-              <a href="{{ page.url }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-         <br />
-         <a href="/">Home</a><br />
-         <a href="https://github.com/heardk/commerce-community-docs">Contribute</a>
+        <a href="/">Home</a><br />
+        <a href="/about">About</a><br />
+        <a href="/blogs">Community Blogs</a><br />
+        <a href="https://github.com/heardk/commerce-community-docs">Contribute</a>
       </header>
       <section>
         {{ content }}
