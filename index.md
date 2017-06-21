@@ -3,6 +3,21 @@ title: Sitecore Commerce Community
 layout: default
 ---
 
+
+
+### Community Blogs
+
+<ul>
+    {% for blog in site.data.blogs %}
+    <li>
+        <a href="{{blog.link}}">
+            {{ blog.title }}
+        </a>
+        by {{ blog.author }}
+    </li>
+    {% endfor %}
+</ul>
+
 ### Plugins
 
 <ul>
@@ -10,18 +25,6 @@ layout: default
     <li>
         <a href="{{plugin.link}}">
             {{ plugin.name }}
-        </a>
-    </li>
-    {% endfor %}
-</ul>
-
-### Guides
-
-<ul>
-    {% for guide in site.data.guides %}
-    <li>
-        <a href="{{guide.link}}">
-            {{ guide.title }}
         </a>
     </li>
     {% endfor %}
@@ -48,7 +51,7 @@ layout: default
 
 Keep up to date with what's going on with Sitecore Commerce through [@commerceminion](https://twitter.com/commerceminion), including notifications for new forum posts
 
-### Community
+### Community Support
 
 - [Sitecore Commerce Community Forums](https://community.sitecore.net/developers/f/6)
 - [Join the #ecommerce channel on sitecorechat.slack.com](https://sitecorechat.slack.com/)
