@@ -1,3 +1,28 @@
+- name: Percentage Off Promotions Plugin
+  link: https://github.com/XCentium/SC-Plugin-Promotions-PercentageOff
+  author: XCentium
+  submitted-by: Kelly Heard
+
+- name: Country-State-Zip Validation Plugin
+  link: https://github.com/XCentium/SC-Plugin-Validation-CountryState
+  author: XCentium
+  submitted-by: Kelly Heard
+
+- name: UPS Plugin
+  link: https://github.com/XCentium/SC-Plugin-UPS
+  author: XCentium
+  submitted-by: Kelly Heard
+
+- name: USPS Plugin
+  link: https://github.com/XCentium/SC-Plugin-USPS
+  author: XCentium
+  submitted-by: Kelly Heard
+
+- name: FedEx Plugin
+  link: https://github.com/XCentium/SC-Plugin-FedEx
+  author: XCentium
+  submitted-by: Kelly Heard
+
 - name: Integrating Orders & Customers
   link: https://websterian.com/2017/06/08/sitecore-commerce-erp-integration-an-approach-part-1-integrating-orders-and-customers/
   author: Ian Webster
