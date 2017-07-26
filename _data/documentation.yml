@@ -1,0 +1,39 @@
+- title: Product Documentation
+  link: https://doc.sitecore.net/sitecore_commerce
+  author: Sitecore
+  submmitted-by: Kelly Heard
+
+- title: Deployment Guide for Single Machine Install
+  link: http://commercesdn.sitecore.net/SitecoreCommerce/DeploymentGuide/en-us/index.html
+  author: Sitecore
+  submitted-by: Kelly Heard
+
+- title: Developer's Guide
+  link: https://doc.sitecore.net/~/media/25566BB479844DB186DBEF2864246639.ashx
+  author: Sitecore
+  submitted-by: Kelly Heard
+
+- title: PowerShell CmdLets for Managing Commerce Server Sites and Resources   
+  link: http://commercesdn.sitecore.net/SCpbCS82/SitecoreCommerceGettingStarted/en-us/#DeploymentGuide/c_PowerShellCmdLets.html
+  author: Sitecore
+  submitted-by: Kelly Heard
+
+- title: Commerce Connect Components
+  link: https://doc.sitecore.net/sitecore_commerce/commerce_connect_components?roles=all
+  author: Sitecore
+  submitted-by: Kelly Heard
+
+- title: Pricing Management Walkthrough 
+  link: http://commercesdn.sitecore.net/SitecoreCommerce/UsersGuide/en-us/index.html#Concepts/c_M_PricingManagementWalkthrough.html
+  author: Sitecore
+  submitted-by: Kelly Heard
+
+- title: Promotion Management Walkthrough 
+  link: http://commercesdn.sitecore.net/SitecoreCommerce/UsersGuide/en-us/index.html#Concepts/c_M_PromotionManagementWalkthrough.html
+  author: Sitecore
+  submitted-by: Kelly Heard
+
+- title: Customer & Order Manager Walkthrough 
+  link: http://commercesdn.sitecore.net/SitecoreCommerce/UsersGuide/en-us/index.html#Concepts/c_M_CustomerOrderManagementWalkthrough.html
+  author: Sitecore
+  submitted-by: Kelly Heard
