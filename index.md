@@ -5,7 +5,7 @@ layout: default
 
 
 
-### Community Blogs
+### Blog Posts
 
 <ul>
     {% for blog in site.data.blogs %}
@@ -14,6 +14,19 @@ layout: default
             {{ blog.title }}
         </a>
         by {{ blog.author }}
+    </li>
+    {% endfor %}
+</ul>
+
+### Installation
+
+<ul>
+    {% for install in site.data.install %}
+    <li>
+        <a href="{{install.link}}">
+            {{ install.title }}
+        </a>
+        by {{ install.author }}
     </li>
     {% endfor %}
 </ul>
