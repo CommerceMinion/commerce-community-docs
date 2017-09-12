@@ -1,3 +1,8 @@
+- name: Fulfillment Fee Plugin
+  link: https://github.com/kazimnami/Sitecore.Demo.Retail/tree/feature/fulfillment-fee-plugin
+  author: Kazim Nami
+  submitted-by: Kelly Heard
+
 - name: Percentage Off Promotions Plugin
   link: https://github.com/XCentium/SC-Plugin-Promotions-PercentageOff
   author: XCentium
