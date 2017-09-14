@@ -1,0 +1,28 @@
+.symBox {
+    background-color: #D5E5FF;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    color: #3E3E3E;
+}
+
+.symTitle {
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.symRegister {
+    display: block;
+    margin-top: 5px;
+}
+
+a.symRegister {
+    font-weight: bold;
+}
+
+a:hover.symRegister {
+    color: #3C52A7;
+    font-weight: bold;
+}

@@ -3,7 +3,11 @@ title: Sitecore Commerce Community
 layout: default
 ---
 
-
+<div class="symBox">
+    <div class="symTitle">Visit the Commerce Team at Sitecore Symposium</div>
+    Explore Sitecore Commerce's technology stack during the pre-conference dev workshop at Sitecore Symposium 
+    <a class="symRegister" href="http://siteco.re/2qxAPJU">Register here!</a>
+</div>
 
 ### Blog Posts
 
