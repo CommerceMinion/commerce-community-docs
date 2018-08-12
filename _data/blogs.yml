@@ -1,28 +1,70 @@
-- title: Sitecore Commerce 8.2.1 Multi Currency Support for Braintree integration Part 2
+- title: Extending the SXC9 customer 
+  link: http://www.jonnekats.nl/2018/extending-the-customer/
+  author: Jonne Kats
+  submitted-by: Kelly Heard
+  submitted-on: 08-12-2018
+
+- title: Installing Habitat Home on Sitecore Experience Commerce 
+  link: https://www.konabos.com/blog/installing-sitecore-habitat-home-commerce-on-sitecore-experience-commerce-xc-9-update-2-in-powerful-ways/
+  author: Akshay Sura
+  submitted-by: Kelly Heard
+  submitted-on: 08-12-2018
+
+- title: Making an External Product Pricing Request 
+  link: https://kazimnami.com/2018/05/02/sitecore-experience-commerce-9-making-an-external-product-pricing-request/
+  author: Kazim Nami
+  submitted-by: Kelly Heard
+  submitted-on: 08-12-2018
+
+- title: Plugin Creation Process Flow 
+  link: https://kazimnami.com/2018/08/02/sitecore-experience-commerce-9-plugin-creation-process-flow/
+  author: Kazim Nami
+  submitted-by: Kelly Heard
+  submitted-on: 08-12-2018
+
+- title: Showing custom product attributes on the product details page using SXA 
+  link: https://websterian.com/2018/05/11/sitecore-commerce-9-x-showing-custom-product-attributes-on-the-product-details-page-using-sxa/
+  author: Ian Webster
+  submitted-by: Kelly Heard
+  submitted-on: 08-12-2018
+
+- title: Moving entity composer templates between environments, a code first approach 
+  link: https://websterian.com/2018/08/10/sitecore-commerce-9-moving-entity-composer-templates-between-environments-a-code-first-approach/
+  author: Ian Webster
+  submitted-by: Kelly Heard
+  submitted-on: 08-12-2018
+
+- title: Migrating Microsoft Commerce Server Passwords to Sitecore 
+  link: https://kazimnami.com/2018/08/10/migrating-microsoft-commerce-server-passwords-to-sitecore-microsoft-asp-net-membership-provider/
+  author: Kazim Nami
+  submitted-by: Kelly Heard
+  submitted-on: 08-12-2018
+
+- title: Multi Currency Support for Braintree integration Part 2
   link: https://www.brimit.com/blog/sitecore-commerce-8-multi-currency-support-braintree2
   author: Andrey Polyakov
   submitted-by: Andrey Polyakov
   submitted-on: 11-20-2017
 
-- title: "Adding and setting new fields on the cart"
+- title: Adding and setting new fields on the cart
   link: https://websterian.com/2017/10/09/sitecore-commerce-adding-and-setting-new-fields-on-the-cart-an-end-to-end-example/
   author: Ian Webster
   submmitted-by: Kelly Heard
   submitted-on: 10-10-2017
 
-- title: "Sitecore Commerce 8.2.1 - Working with Commerce Engine APIs"
+- title: Working with Commerce Engine APIs
   link: https://medium.com/@prabathcy/sitecore-commerce-commerce-engine-api-design-4aaad6de7d6f
   author: Prabath Yapa
   submmitted-by: Kelly Heard
   submitted-on: 09-13-2017
 
-- title: "Sitecore Commerce 8.2.1 Multi Currency Support Setup"
+- title: Multi Currency Support Setup
   link: http://www.brimit.com/blog/sitecore-commerce-8-multicurrency-support
   author: Andrey Polyakov
   submmitted-by: Kelly Heard
   submitted-on: 08-16-2017
 
-- title: "Sitecore Commerce 8.2.1 Pricing Walkthrough"
+- title: Sitecore Commerce 8.2.1 Pricing Walkthrough
   link: https://community.sitecore.net/technical_blogs/b/the_commerce_experience/posts/commerce-pricing-walkthrough
   author: Kelly Heard
   submmitted-by: Kelly Heard

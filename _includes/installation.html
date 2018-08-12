@@ -1,0 +1,11 @@
+<div class="content-section">
+    {% for install in site.data.install limit:{{include.limit}} %}
+    <div class="content-post">
+        <a href="{{install.link}}">{{ install.title }}</a>
+        by {{ install.author }}
+    </div>
+    {% endfor %}
+    {% if include.showMore %}
+        <a href="/install">...more</a>
+    {% endif %}
+ </div>

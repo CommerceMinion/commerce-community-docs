@@ -5,58 +5,24 @@ layout: default
 
 ### Blog Posts
 
-<ul>
-    {% for blog in site.data.blogs %}
-    <li>
-        <a href="{{blog.link}}">
-            {{ blog.title }}
-        </a>
-        by {{ blog.author }}
-    </li>
-    {% endfor %}
-</ul>
+{% include blog-posts.html limit="5" showMore="true" %}
+
+### Plugins & Other Tools
+
+{% include plugins.html limit="5" showMore="true" %}
 
 ### Installation
 
-<ul>
-    {% for install in site.data.install %}
-    <li>
-        <a href="{{install.link}}">
-            {{ install.title }}
-        </a>
-        by {{ install.author }}
-    </li>
-    {% endfor %}
-</ul>
-
-### Plugins
-
-<ul>
-    {% for plugin in site.data.plugins %}
-    <li>
-        <a href="{{plugin.link}}">
-            {{ plugin.name }}
-        </a>
-    </li>
-    {% endfor %}
-</ul>
+{% include installation.html limit="5" showMore="true" %}
 
 ### Product Documentation
 
-<ul>
-    {% for doc in site.data.documentation %}
-    <li>
-        <a href="{{doc.link}}">
-            {{ doc.title }}
-        </a>
-    </li>
-    {% endfor %}
-</ul>
+{% include documentation.html limit="5" showMore="true"%}
 
 ### Demo Site & Reference Storefront
 
-- [Retail Demo](https://github.com/Sitecore/Sitecore.Demo.Retail) (supports 8.2.1 initial release)
-- [Reference Storefront](https://github.com/Sitecore/Reference-Storefront) (supports latest version)
+- [Habitat Home - Commerce](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) (supports 9.0.1)
+- [Reference Storefront](https://github.com/Sitecore/Reference-Storefront) (supports 8.2.1 Update-3)
 
 ### @CommerceMinion
 
@@ -66,6 +32,7 @@ Keep up to date with what's going on with Sitecore Commerce through [@commercemi
 
 - [Sitecore Commerce Community Forums](https://community.sitecore.net/developers/f/6)
 - [Join the #ecommerce channel on sitecorechat.slack.com](https://sitecorechat.slack.com/)
+- [For Habitat Demo support, join the channel on sitecorechat.slack.com](https://sitecorechat.slack.com/messages/habitathome/)
 - [Sitecore Commerce on Stackexchange](https://sitecore.stackexchange.com/questions/tagged/sitecore-commerce)
 - [Sitecore Commerce Mentoring Guild](https://github.com/sitecoreguild/scmg/wiki)
 

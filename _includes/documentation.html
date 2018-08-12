@@ -1,0 +1,10 @@
+<div class="content-section">
+    {% for doc in site.data.documentation limit:{{include.limit}} %}
+    <div class="content-post">
+        <a href="{{doc.link}}">{{ doc.title }}</a>
+    </div>
+    {% endfor %}
+    {% if include.showMore %}
+        <a href="/docs">...more</a>
+    {% endif %}
+ </div>

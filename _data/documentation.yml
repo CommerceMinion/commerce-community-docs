@@ -3,37 +3,47 @@
   author: Sitecore
   submmitted-by: Kelly Heard
 
-- title: Deployment Guide for Single Machine Install
+- title: Product Downloads
+  link: https://dev.sitecore.net/Downloads/Sitecore_Commerce.aspx
+  author: Sitecore
+  submmitted-by: Kelly Heard
+
+- title: "On-premises Install Guide - 9.0.2"
+  link: http://commercesdn.sitecore.net/SitecoreXC_9.0/Installation-Guide/9.0.2/SitecoreXC-9.0_Installation_Guide(On-Prem).pdf
+  author: Sitecore
+  submitted-by: Kelly Heard
+
+- title: "Azure App Service Install Guide - 9.0.2"
+  link: http://commercesdn.sitecore.net/SitecoreXC_9.0/Installation-Guide/9.0.2/SitecoreXC-9.0_Installation_Guide(Cloud).pdf
+  author: Sitecore
+  submitted-by: Kelly Heard
+
+- title: "Upgrade Instructions: 9.0.1 - 9.0.2"
+  link: http://commercesdn.sitecore.net/SitecoreXC_9.0/Upgrade/Sitecore-XC-9.0_Upgrade_Instructions(U1-to-U2).pdf
+  author: Sitecore
+  submitted-by: Kelly Heard
+
+- title: "Developer's Guide - rev. Aug 2018"
+  link: http://commercesdn.sitecore.net/SitecoreXC_9.0/Developers-Guide/Sitecore-XC-9.0_Developers_Guide.pdf
+  author: Sitecore
+  submitted-by: Kelly Heard
+
+- title: "DevOps Guide - rev. Aug 2018"
+  link: http://commercesdn.sitecore.net/SitecoreXC_9.0/DevOps-Guide/Sitecore-XC-9.0_DevOps_Guide.pdf
+  author: Sitecore
+  submitted-by: Kelly Heard
+
+- title: "Commerce Engine & Storefront Configuration Settings"
+  link: https://doc.sitecore.net/sitecore_commerce/commerce_connect_components/commerce_control_panel/the_commerce_engine_and_storefront_configuration_settings
+  author: Sitecore
+  submitted-by: Kelly Heard
+
+- title: "Deployment Guide for Single Machine Install - 8.2.1"
   link: http://commercesdn.sitecore.net/SitecoreCommerce/DeploymentGuide/en-us/index.html
   author: Sitecore
   submitted-by: Kelly Heard
 
-- title: Developer's Guide
-  link: https://doc.sitecore.net/~/media/25566BB479844DB186DBEF2864246639.ashx
-  author: Sitecore
-  submitted-by: Kelly Heard
-
-- title: PowerShell CmdLets for Managing Commerce Server Sites and Resources   
+- title: "PowerShell CmdLets for Managing Commerce Server Sites and Resources - 8.2.1"
   link: http://commercesdn.sitecore.net/SCpbCS82/SitecoreCommerceGettingStarted/en-us/#DeploymentGuide/c_PowerShellCmdLets.html
-  author: Sitecore
-  submitted-by: Kelly Heard
-
-- title: Commerce Connect Components
-  link: https://doc.sitecore.net/sitecore_commerce/commerce_connect_components?roles=all
-  author: Sitecore
-  submitted-by: Kelly Heard
-
-- title: Pricing Management Walkthrough 
-  link: http://commercesdn.sitecore.net/SitecoreCommerce/UsersGuide/en-us/index.html#Concepts/c_M_PricingManagementWalkthrough.html
-  author: Sitecore
-  submitted-by: Kelly Heard
-
-- title: Promotion Management Walkthrough 
-  link: http://commercesdn.sitecore.net/SitecoreCommerce/UsersGuide/en-us/index.html#Concepts/c_M_PromotionManagementWalkthrough.html
-  author: Sitecore
-  submitted-by: Kelly Heard
-
-- title: Customer & Order Manager Walkthrough 
-  link: http://commercesdn.sitecore.net/SitecoreCommerce/UsersGuide/en-us/index.html#Concepts/c_M_CustomerOrderManagementWalkthrough.html
   author: Sitecore
   submitted-by: Kelly Heard

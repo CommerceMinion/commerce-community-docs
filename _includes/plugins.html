@@ -1,0 +1,10 @@
+<div class="content-section">
+    {% for plugin in site.data.plugins limit:{{include.limit}} %}
+    <div class="content-post">
+        <a href="{{plugin.link}}">{{ plugin.name }}</a>
+    </div>
+    {% endfor %}
+    {% if include.showMore %}
+        <a href="/plugins">...more</a>
+    {% endif %}
+ </div>

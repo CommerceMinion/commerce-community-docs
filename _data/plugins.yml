@@ -1,3 +1,18 @@
+- name: Sitecore Commerce in Docker
+  link: https://github.com/avivasolutionsnl/sitecore-commerce-docker
+  author: Aviva Solutions
+  submitted-by: Kelly Heard
+
+- name: Sitecore Commerce Integration Framework
+  link: https://github.com/NishTech/Sitecore-Commerce-Integration-Framework
+  author: NishTech
+  submitted-by: Kelly Heard
+
+- name: "Plumber: Configuration Viewer"
+  link: http://plumber-sc.com/
+  author: Erwin Werkman
+  submitted-by: Kelly Heard
+
 - name: Fulfillment Fee Plugin
   link: https://github.com/kazimnami/Sitecore.Demo.Retail/tree/feature/fulfillment-fee-plugin
   author: Kazim Nami
