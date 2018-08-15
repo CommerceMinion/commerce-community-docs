@@ -12,16 +12,18 @@ Sitecore Commerce is an integrated Experience Commerce solution built by Sitecor
 You are welcome to contribute your own content to the site, simply make the changes and submit a pull request. For now, submit content in the following areas:
 
 - Blog Posts
-- Plugins
-- Guides or Walkthroughs
+- Commerce Engine Plugins or tools you've made
+- Install Guidance
 
-Contributing is done by adding an entry to one of the files in the _data folder. For example:
+Contributing is done by adding an entry to one of the files in the _data folder.  
 
-**guides.yml**
+For example:  
+
+**blogs.yml**
 
 {% highlight yml %}
 - title: Creating a Simple Bundle Promotion
-  link: https://websterian.com/
+  link: https://domain.com/blog-post
   author: author name
   submitted-by: your name
 {% endhighlight %}
@@ -35,11 +37,22 @@ Contributing is done by adding an entry to one of the files in the _data folder.
   submitted-by: your name
 {% endhighlight %}
 
+**install.yml**
+
+{% highlight yml %}
+- name: Setting up a Development Environment
+  link: https://domain.com/blog-dev-environment
+  author: author name
+  submitted-by: your name
+{% endhighlight %}
+
+`documentation.yml` is reserved for highlighting official product documentation links. 
+
 Follow Github's instructions on [creating a pull request](https://help.github.com/articles/creating-a-pull-request/), if you're not sure how to contribute.
 
 ### Official Documentation
 
-This site is community-driven. For official documentation, please visit the following:
+This site is community-driven and not run by Sitecore. For official documentation, please visit the following:
 
 - [Sitecore.net](https://sitecore.net)
 - [Sitecore Commerce Docs](https://doc.sitecore.net/sitecore_commerce)

@@ -40,9 +40,9 @@ Keep up to date with what's going on with Sitecore Commerce through [@commercemi
 
 ### Community Support
 
-- [Sitecore Commerce Community Forums](https://community.sitecore.net/developers/f/6)
-- [Join the #ecommerce channel on sitecorechat.slack.com](https://sitecorechat.slack.com/)
-- [For Habitat Demo support, join the channel on sitecorechat.slack.com](https://sitecorechat.slack.com/messages/habitathome/)
-- [Sitecore Commerce on Stackexchange](https://sitecore.stackexchange.com/questions/tagged/sitecore-commerce)
-- [Sitecore Commerce Mentoring Guild](https://github.com/sitecoreguild/scmg/wiki)
+[Sitecore Commerce Community Forums](https://community.sitecore.net/developers/f/6)  
+[Join the #ecommerce channel on sitecorechat.slack.com](https://sitecorechat.slack.com/)  
+[For Habitat Demo support, join the channel on sitecorechat.slack.com](https://sitecorechat.slack.com/messages/habitathome/)  
+[Sitecore Commerce on Stackexchange](https://sitecore.stackexchange.com/questions/tagged/sitecore-commerce)  
+[Sitecore Commerce Mentoring Guild](https://github.com/sitecoreguild/scmg/wiki)  
 
