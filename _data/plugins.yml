@@ -1,3 +1,8 @@
+- name: Packer templates for Sitecore Commerce development
+  link: https://github.com/asmagin/sitecore-packer
+  author: Alex Smagin
+  submitted-by: Kelly Heard
+
 - name: Sitecore Commerce in Docker
   link: https://github.com/avivasolutionsnl/sitecore-commerce-docker
   author: Aviva Solutions
