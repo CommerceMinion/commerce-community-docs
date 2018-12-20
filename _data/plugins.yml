@@ -1,3 +1,8 @@
+- name: Visual Studio templates for Sitecore Commerce development
+  link: https://github.com/ajsuth/Ajsuth.Commerce.Engine.Templates
+  author: Andrew Sutherland
+  submitted-by: Kelly Heard
+
 - name: Packer templates for Sitecore Commerce development
   link: https://github.com/asmagin/sitecore-packer
   author: Alex Smagin
