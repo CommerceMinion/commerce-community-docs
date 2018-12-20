@@ -1,3 +1,8 @@
+- name: Example SXC9 plugin for Heidelpay
+  link: https://github.com/avivasolutionsnl/Heidelpay-SXC9-example
+  author: Aviva Solutions
+  submitted-by: Kelly Heard
+
 - name: Visual Studio templates for Sitecore Commerce development
   link: https://github.com/ajsuth/Ajsuth.Commerce.Engine.Templates
   author: Andrew Sutherland
