@@ -1,3 +1,8 @@
+- name: "Plumber: Catalog"
+  link: https://github.com/plumber-sc/plumber-catalog
+  author: Erwin Werkman
+  submitted-by: Kelly Heard
+
 - name: Example SXC9 plugin for Heidelpay
   link: https://github.com/avivasolutionsnl/Heidelpay-SXC9-example
   author: Aviva Solutions
