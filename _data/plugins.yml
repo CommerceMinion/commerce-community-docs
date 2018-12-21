@@ -1,3 +1,8 @@
+- name: "Rob.Commerce - a series of plugins"
+  link: https://github.com/robearlam/Rob.Commerce
+  author: Rob Earlam
+  submitted-by: Kelly Heard
+
 - name: "Plumber: Catalog"
   link: https://github.com/plumber-sc/plumber-catalog
   author: Erwin Werkman
