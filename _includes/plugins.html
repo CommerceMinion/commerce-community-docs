@@ -2,6 +2,7 @@
     {% for plugin in site.data.plugins limit:{{include.limit}} %}
     <div class="content-post">
         <a href="{{plugin.link}}">{{ plugin.name }}</a>
+        by {{ plugin.author }}
     </div>
     {% endfor %}
     {% if include.showMore %}
