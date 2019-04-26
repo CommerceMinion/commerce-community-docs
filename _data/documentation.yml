@@ -1,15 +1,15 @@
-- title: Product Documentation
-  link: https://doc.sitecore.net/sitecore_commerce
+- title: Product Developer Documentation - 9.1
+  link: https://doc.sitecore.com/developers/91/xc/index.html
+  author: Sitecore
+  submmitted-by: Kelly Heard
+  
+- title: Product Business User Documentation - 9.1
+  link: https://doc.sitecore.com/users/91/sitecore-experience-commerce/en/introduction-to-sitecore-experience-commerce.html
   author: Sitecore
   submmitted-by: Kelly Heard
 
 - title: Product Downloads
   link: https://dev.sitecore.net/Downloads/Sitecore_Commerce.aspx
-  author: Sitecore
-  submmitted-by: Kelly Heard
-
-- title: Developer Documentation
-  link: https://doc.sitecore.net/developers/xc/index.html
   author: Sitecore
   submmitted-by: Kelly Heard
 
