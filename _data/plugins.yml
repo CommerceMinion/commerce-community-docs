@@ -1,3 +1,8 @@
+- name: "Sample Commerce Plugins"
+  link: https://github.com/Sitecore/SitecoreCommerce
+  author: Sitecore
+  submitted-by: Kelly Heard
+
 - name: "SellableItem Parent Categories View Plugin"
   link: http://xcentium.com/blog/2019/03/26/sxc-bizfx---sellableitem-parent-categories-view
   author: Yassine Alahyane
