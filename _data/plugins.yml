@@ -1,3 +1,8 @@
+- name: "USPS Address Validation"
+  link: https://github.com/Sitecore/SitecoreCommerce/tree/master/src/Plugin.Sample.USPS
+  author: "Sitecore (Matt Dinovo)"
+  submitted-by: Kelly Heard
+
 - name: "Sample Commerce Plugins"
   link: https://github.com/Sitecore/SitecoreCommerce
   author: Sitecore
