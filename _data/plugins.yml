@@ -1,3 +1,8 @@
+- name: "ShipEngine Plugin"
+  link: https://github.com/Sitecore/SitecoreCommerce/tree/master/src/Plugin.Sample.ShipEngine
+  author: "Sitecore (Edvin Eshagh)"
+  submitted-by: Kelly Heard
+
 - name: "USPS Address Validation"
   link: https://github.com/Sitecore/SitecoreCommerce/tree/master/src/Plugin.Sample.USPS
   author: "Sitecore (Matt Dinovo)"
