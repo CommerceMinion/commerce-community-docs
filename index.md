@@ -7,6 +7,10 @@ layout: default
 
 {% include blog-posts.html limit="5" showMore="true" %}
 
+### Blogs
+
+{% include blogs.html limit="5" showMore="true" %}
+
 ### Plugins & Other Tools
 
 {% include plugins.html limit="5" showMore="true" %}

@@ -12,6 +12,7 @@ Sitecore Commerce is an integrated Experience Commerce solution built by Sitecor
 You are welcome to contribute your own content to the site, simply make the changes and submit a pull request. For now, submit content in the following areas:
 
 - Blog Posts
+- Blogs
 - Commerce Engine Plugins or tools you've made
 - Install Guidance
 
