@@ -1,0 +1,11 @@
+<div class="content-section">
+    {% for blog in site.data.bloggers limit:{{include.limit}} %}
+    <div class="content-post">
+        <a href="{{blog.link}}">{{ blog.title }}</a>
+        by {{ blog.author }}
+    </div>
+    {% endfor %}
+    {% if include.showMore %}
+        <a href="/blogs">...more</a>
+    {% endif %}
+ </div>
