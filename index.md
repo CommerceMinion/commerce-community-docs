@@ -9,7 +9,7 @@ layout: default
 
 ### Blogs
 
-{% include blogs.html limit="5" showMore="true" %}
+{% include bloggers.html limit="5" showMore="true" %}
 
 ### Plugins & Other Tools
 
