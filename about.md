@@ -33,7 +33,7 @@ For example:
 
 {% highlight yml %}
 - name: Shared Cart
-  link: https://github.com/heardk/commerce-plugins
+  link: https://github.com/CommerceMinion/commerce-plugins
   author: author name
   submitted-by: your name
 {% endhighlight %}
