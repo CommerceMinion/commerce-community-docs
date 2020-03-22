@@ -1,3 +1,24 @@
+
+- name: Nyxie - a Sitecore Commerce plugin that adds a bunch of qualifications and promotions
+  link: https://github.com/avivasolutionsnl/Nyxie
+  author: Aviva Solutions
+  submitted-by: Erwin Werkman
+
+- name: Sitecore XC Plugin to be able to maintain plugin policy on runtime
+  link: https://github.com/Chris1415/Plugin.Sample.Settings
+  author: Christian Hahn
+  submitted-by: Erwin Werkman
+
+- name: Custom Sitecore Commerce BizFx project with extended functionality for the Business Tools.
+  link: https://github.com/ajsuth/Ajsuth.BizFx
+  author: Andrew Sutherland
+  submitted-by: Erwin Werkman
+
+- name: Extended Sitecore Commerce Views
+  link: https://github.com/ajsuth/Ajsuth.Foundation.Views.Engine
+  author: Andrew Sutherland
+  submitted-by: Erwin Werkman
+
 - name: "ShipEngine Plugin"
   link: https://github.com/Sitecore/SitecoreCommerce/tree/master/src/Plugin.Sample.ShipEngine
   author: "Sitecore (Edvin Eshagh)"
