@@ -9,6 +9,11 @@
   author: Christian Hahn
   submitted-by: Erwin Werkman
 
+- name: Custom Sitecore Commerce pricing plugin project with extended functionality for the Business Tools.
+  link: https://github.com/ajsuth/Ajsuth.Feature.Pricing.Engine
+  author: Andrew Sutherland
+  submitted-by: Erwin Werkman
+  
 - name: Custom Sitecore Commerce BizFx project with extended functionality for the Business Tools.
   link: https://github.com/ajsuth/Ajsuth.BizFx
   author: Andrew Sutherland
