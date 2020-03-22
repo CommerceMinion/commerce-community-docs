@@ -18,6 +18,11 @@
   link: https://github.com/ajsuth/Ajsuth.Foundation.Views.Engine
   author: Andrew Sutherland
   submitted-by: Erwin Werkman
+  
+- name: Plumber Component Decorator - Make Sitecore Commerce components easily viewable and editable in Sitecore Commerce Business Tools by annotating them with attributes. 
+  link: https://github.com/plumber-sc/plumber-component-decorator
+  author: Erwin Werkman
+  submitted-by: Erwin Werkman
 
 - name: "ShipEngine Plugin"
   link: https://github.com/Sitecore/SitecoreCommerce/tree/master/src/Plugin.Sample.ShipEngine
